@@ -1,4 +1,4 @@
-<h1 align="center">✨ Airam Fuentes ✨</h1>
+<h1 align="center">Airam Fuentes</h1>
 
 <p align="center">
   <a href="https://github.com/airamfuentes">
@@ -8,33 +8,24 @@
 
 ---
 
-## 🚀 Sobre mí
+## 🚀 SOBRE MÍ
 
-- 🌱 Actualmente aprendiendo desarrollo web
+- 🌱 Actualmente aprendiendo...
 - 💻 Enfocado en Full Stack
-- 🔥 Mejorando cada día
-- 🎯 Construyendo proyectos reales
+- 🔥 Amante de Copilot :)
+- 🎯 Construyendo full stack web de food delivery
 
 ---
 
-## 🛠️ Tecnologías
+## 🛠️ STACK
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,vue,js,nodejs,npm,git,github,vscode,laravel" />
 </p>
 
 ---
 
-## 📊 Estadísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=airamfuentes&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=airamfuentes&layout=compact&theme=radical&hide_border=true" height="150"/>
-</p>
-
----
-
-## 📫 Contacto
+## 📫 CONTACTO
 
 <p align="center">
   <a href="mailto:airamfuentes2020@gmail.com">
@@ -45,7 +36,7 @@
 ---
 
 <p align="center">
-  👀 Visitas al perfil
+  👀 VISITAS
   <br>
   <img src="https://komarev.com/ghpvc/?username=airamfuentes&color=blueviolet&style=for-the-badge" />
 </p>
