@@ -29,7 +29,7 @@
 
 <p align="center">
   <a href="mailto:airamfuentes2020@gmail.com">
-    <img src="https://img.shields.io/badge/style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-airamfuentes2020@gmail.com&logo=gmail&logoColor=white" />
   </a>
 </p>
 
