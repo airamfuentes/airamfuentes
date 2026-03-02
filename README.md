@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/airamfuentes">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hola%2C+bienvenido+a+mi+Github;Estoy+aprendiendo...;Grindeando+el+full+stack+%3C3">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hola%2C+bienvenido+a+mi+Github;Estoy+aprendiendo...;Grindeando+el+full+stack">
   </a>
 </p>
 
