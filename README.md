@@ -20,7 +20,7 @@
 ## 🛠️ STACK
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,vue,js,nodejs,npm,git,github,vscode,laravel" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,vue,js,nodejs,npm,laravel,git,vscode" />
 </p>
 
 ---
