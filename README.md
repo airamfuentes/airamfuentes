@@ -9,10 +9,9 @@
 ---
 
 ## 🚀 SOBRE MÍ
-
+- 🔥 Amante de Claude :)
+- 💻 Enfocado en full stack
 - 🌱 Actualmente aprendiendo...
-- 💻 Enfocado en Full Stack
-- 🔥 Amante de Copilot :)
 - 🎯 Construyendo full stack web de food delivery
 
 ---
