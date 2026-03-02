@@ -11,9 +11,9 @@
 ## 🚀 Sobre mí
 
 - 🌱 Actualmente aprendiendo desarrollo web
-- 💻 Enfocado en convertirme en Full Stack Developer
+- 💻 Enfocado en Full Stack
 - 🔥 Mejorando cada día
-- 🎯 Creando proyectos simples pero bien hechos
+- 🎯 Construyendo proyectos reales
 
 ---
 
@@ -28,8 +28,8 @@
 ## 📊 Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=airamfuentes&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=airamfuentes&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=airamfuentes&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=airamfuentes&layout=compact&theme=radical&hide_border=true" height="150"/>
 </p>
 
 ---
