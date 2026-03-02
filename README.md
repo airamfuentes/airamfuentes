@@ -1,9 +1,9 @@
 <h1 align="center">✨ Airam Fuentes ✨</h1>
 
 <p align="center">
-  💻 Full Stack en progreso <br>
-  🚀 Apasionado por el desarrollo web <br>
-  🎯 Mejorando cada día
+  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hola%2C+bienvenido+a+mi+Github;Estoy+aprendiendo+desarrollo+web;Grindeando+el+full+stack+%3C3">
+  </a>
 </p>
 
 ---
@@ -11,13 +11,13 @@
 ## 🚀 Sobre mí
 
 - 🌱 Actualmente aprendiendo desarrollo web
-- 🧠 En constante mejora
-- 🔥 Grindeando el Full Stack
-- 🎨 Me gusta crear cosas simples y funcionales
+- 💻 Enfocado en convertirme en Full Stack Developer
+- 🔥 Mejorando cada día
+- 🎯 Creando proyectos simples pero bien hechos
 
 ---
 
-## 🛠️ Tecnologías que uso
+## 🛠️ Tecnologías
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode" />
@@ -25,7 +25,7 @@
 
 ---
 
-## 📊 Mis estadísticas
+## 📊 Estadísticas
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=airamfuentes&show_icons=true&theme=tokyonight&hide_border=true" height="150">
