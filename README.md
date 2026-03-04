@@ -6,17 +6,22 @@
   </a>
 </p>
 ---
+
 ## 🛠️ STACK
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,vue,js,nodejs,npm,laravel,git,vscode" />
 </p>
+
 ---
+
 ## 📫 CONTACTO
 <p align="center">
   <a href="mailto:airamfuentes2020@gmail.com">
     <img src="https://img.shields.io/badge/Email-airamfuentes2020%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  
 ---
+
 </p>
 ## 🌐 PORTFOLIO
 <p align="center">
@@ -24,7 +29,9 @@
     <img src="https://img.shields.io/badge/Ver%20mi%20portfolio-Visitar-blue?style=for-the-badge&logo=vercel" alt="Ver portfolio" />
   </a>
 </p>
+
 ---
+
 <p align="center">
   👀 VISITAS
   <br>
