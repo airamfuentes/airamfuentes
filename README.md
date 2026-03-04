@@ -7,15 +7,6 @@
 </p>
 
 ---
-
-## 🚀 SOBRE MÍ
-- 🔥 Amante de Claude :)
-- 💻 Enfocado en full stack
-- 🌱 Actualmente aprendiendo...
-- 🎯 Construyendo full stack web de food delivery
-
----
-
 ## 🛠️ STACK
 
 <p align="center">
