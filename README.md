@@ -22,7 +22,6 @@
   
 ---
 
-</p>
 ## 🌐 PORTFOLIO
 <p align="center">
   <a href="https://portfolio-airamfuentes.vercel.app/">
