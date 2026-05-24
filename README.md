@@ -49,10 +49,10 @@
 
 ---
 
-## 🌐 PORTFOLIO
+## 🌐 PROFILE  
 <p align="center">
   <a href="https://portfolio-airamfuentes.vercel.app/">
-    <img src="https://img.shields.io/badge/Ver%20mi%20portfolio-Visitar-blue?style=for-the-badge&logo=vercel" alt="Ver portfolio" />
+    <img src="https://img.shields.io/badge/Ver%20mi%20portfolio-Visitar-blue?style=for-the-badge&logo=vercel" alt="SEE PROFILE" />
   </a>
 </p>
 
