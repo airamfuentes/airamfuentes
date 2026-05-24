@@ -6,10 +6,36 @@
   </a>
 </p>
 
+---
 
-## 🛠️ STACK
+## ⚡ FRONTEND
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,vue,js,nodejs,npm,laravel,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,tailwind,bootstrap,vite" />
+</p>
+
+---
+
+## 🧠 BACKEND
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,mysql,firebase" />
+</p>
+
+---
+
+## ☁️ TOOLS & CLOUD
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cloudflare,github,vscode,figma" />
+</p>
+
+---
+
+## 🚀 EXTRA TECH
+<p align="center">
+  <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=resend&logoColor=white" />
+  <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" />
 </p>
 
 ---
@@ -19,7 +45,8 @@
   <a href="mailto:airamfuentes2020@gmail.com">
     <img src="https://img.shields.io/badge/Email-airamfuentes2020%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  
+</p>
+
 ---
 
 ## 🌐 PORTFOLIO
