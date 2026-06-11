@@ -1,4 +1,4 @@
-<h1 align="center">🔱 AIRAM FUENTES 🔱</h1>
+<h1 align="center">AIRAM FUENTES</h1>
 
 <p align="center">
   <a href="https://github.com/airamfuentes">
@@ -8,28 +8,28 @@
 
 ---
 
-## ⚡ FRONTEND
+## FRONTEND
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,tailwind,bootstrap,vite" />
 </p>
 
 ---
 
-## 🧠 BACKEND
+## BACKEND
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,mysql,firebase" />
 </p>
 
 ---
 
-## ☁️ TOOLS & CLOUD
+## TOOLS & CLOUD
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cloudflare,github,vscode,figma" />
 </p>
 
 ---
 
-## 🚀 EXTRA TECH
+## EXTRA TECH
 <p align="center">
   <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
@@ -40,7 +40,7 @@
 
 ---
 
-## 📫 CONTACT
+## CONTACT
 <p align="center">
   <a href="mailto:airamfuentes2020@gmail.com">
     <img src="https://img.shields.io/badge/Email-airamfuentes2020%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -49,7 +49,7 @@
 
 ---
 
-## 🌐 PROFILE  
+## PROFILE  
 <p align="center">
   <a href="https://portfolio-airamfuentes.vercel.app/">
     <img src="https://img.shields.io/badge/SEE%20MY%20PROFILE-Visitar-blue?style=for-the-badge&logo=vercel" alt="SEE PROFILE" />
@@ -59,7 +59,7 @@
 ---
 
 <p align="center">
-  👀 VIEWS
+    VIEWS
   <br>
   <img src="https://komarev.com/ghpvc/?username=airamfuentes&color=blueviolet&style=for-the-badge" />
 </p>
