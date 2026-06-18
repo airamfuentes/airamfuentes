@@ -22,6 +22,17 @@
 
 ---
 
+## 3D & ANIMATION
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=threejs" />
+  <img src="https://img.shields.io/badge/React%20Three%20Fiber-000000?style=for-the-badge&logo=three.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" />
+</p>
+
+---
+
 ## TOOLS & CLOUD
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cloudflare,github,vscode,figma" />
@@ -36,6 +47,8 @@
   <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
   <img src="https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=resend&logoColor=white" />
   <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" />
+  <img src="https://img.shields.io/badge/EmailJS-FFB400?style=for-the-badge&logo=minutemailer&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" />
 </p>
 
 ---
@@ -63,3 +76,5 @@
   <br>
   <img src="https://komarev.com/ghpvc/?username=airamfuentes&color=blueviolet&style=for-the-badge" />
 </p>
+
+---
